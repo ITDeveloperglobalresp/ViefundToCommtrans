@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ViefundCommProcess">
+</Property><Property Name="Solution File" Value="C:\ViefundCommProcess\ViefundCommProcess.sln">
+</Property><Property Name="User Options File" Value="C:\ViefundCommProcess\ViefundCommProcess.suo">
+</Property><Property Name="Date" Value="09/07/2012">
+</Property><Property Name="Time" Value="10:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ViefundCommProcess.sln" Description="File successfully backed up as C:\ViefundCommProcess\Backup\ViefundCommProcess.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ViefundCommProcess.suo" Description="File successfully backed up as C:\ViefundCommProcess\Backup\ViefundCommProcess.suo">
+</Event><Event ErrorLevel="4" Project="ViefundCommProcess" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="ViefundCommProcess.vbproj" Description="Project file successfully backed up as C:\ViefundCommProcess\Backup\ViefundCommProcess.vbproj">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="ViefundCommProcess.vbproj.user" Description="Project user file successfully backed up as C:\ViefundCommProcess\Backup\ViefundCommProcess.vbproj.user">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\ViefundCommProcess\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="CommProcess.vb" Description="File successfully backed up as C:\ViefundCommProcess\Backup\CommProcess.vb">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="General.vb" Description="File successfully backed up as C:\ViefundCommProcess\Backup\General.vb">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="Reports\MangReport.vb" Description="File successfully backed up as C:\ViefundCommProcess\Backup\Reports\MangReport.vb">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="Reports\RepReport.vb" Description="File successfully backed up as C:\ViefundCommProcess\Backup\Reports\RepReport.vb">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="Web References\storage\Reference.vb" Description="File successfully backed up as C:\ViefundCommProcess\Backup\Web References\storage\Reference.vb">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="Web References\storage\Reference.map" Description="File successfully backed up as C:\ViefundCommProcess\Backup\Web References\storage\Reference.map">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="Web References\storage\Service1.disco" Description="File successfully backed up as C:\ViefundCommProcess\Backup\Web References\storage\Service1.disco">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="Web References\storage\Service1.wsdl" Description="File successfully backed up as C:\ViefundCommProcess\Backup\Web References\storage\Service1.wsdl">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="CommProcess.resx" Description="File successfully backed up as C:\ViefundCommProcess\Backup\CommProcess.resx">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="Reports\MangReport.rpt" Description="File successfully backed up as C:\ViefundCommProcess\Backup\Reports\MangReport.rpt">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="Reports\RepReport.resx" Description="File successfully backed up as C:\ViefundCommProcess\Backup\Reports\RepReport.resx">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="Reports\RepReport.rpt" Description="File successfully backed up as C:\ViefundCommProcess\Backup\Reports\RepReport.rpt">
+</Event><Event ErrorLevel="1" Project="ViefundCommProcess" Source="ViefundCommProcess.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="ViefundCommProcess.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ViefundCommProcess" Source="ViefundCommProcess.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ViefundCommProcess.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ViefundCommProcess.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ViefundCommProcess" Source="ViefundCommProcess.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

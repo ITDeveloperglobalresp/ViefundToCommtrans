@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ViefundCommProcess
+</name>
+</assembly>
+<members>
+<member name="M:ViefundCommProcess.storage.Service1.#ctor">
+	<remarks/>
+</member><member name="E:ViefundCommProcess.storage.Service1.MoveFileCompleted">
+	<remarks/>
+</member><member name="E:ViefundCommProcess.storage.Service1.MoveandDeleteFileCompleted">
+	<remarks/>
+</member><member name="E:ViefundCommProcess.storage.Service1.GetFaxestoProcessCompleted">
+	<remarks/>
+</member><member name="E:ViefundCommProcess.storage.Service1.GetFaxestoProcess_CSCompleted">
+	<remarks/>
+</member><member name="E:ViefundCommProcess.storage.Service1.SetUserCompleted">
+	<remarks/>
+</member><member name="E:ViefundCommProcess.storage.Service1.SetUserFolderCompleted">
+	<remarks/>
+</member><member name="E:ViefundCommProcess.storage.Service1.SendEmailCompleted">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.MoveFile(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.BeginMoveFile(System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.EndMoveFile(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.MoveFileAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.MoveFileAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.MoveandDeleteFile(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.BeginMoveandDeleteFile(System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.EndMoveandDeleteFile(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.MoveandDeleteFileAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.MoveandDeleteFileAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.GetFaxestoProcess(System.String,System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.BeginGetFaxestoProcess(System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.EndGetFaxestoProcess(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.GetFaxestoProcessAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.GetFaxestoProcessAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.GetFaxestoProcess_CS(System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.BeginGetFaxestoProcess_CS(System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.EndGetFaxestoProcess_CS(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.GetFaxestoProcess_CSAsync(System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.GetFaxestoProcess_CSAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.SetUser(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.BeginSetUser(System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.EndSetUser(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.SetUserAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.SetUserAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.SetUserFolder(System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.BeginSetUserFolder(System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.EndSetUserFolder(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.SetUserFolderAsync(System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.SetUserFolderAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.SendEmail(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.BeginSendEmail(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.EndSendEmail(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.SendEmailAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.SendEmailAsync(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:ViefundCommProcess.storage.Service1.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.Service1">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.MoveFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ViefundCommProcess.storage.MoveFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.MoveFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.MoveandDeleteFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ViefundCommProcess.storage.MoveandDeleteFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.MoveandDeleteFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.GetFaxestoProcessCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ViefundCommProcess.storage.GetFaxestoProcessCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.GetFaxestoProcessCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.GetFaxestoProcess_CSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ViefundCommProcess.storage.GetFaxestoProcess_CSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.GetFaxestoProcess_CSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.SetUserCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ViefundCommProcess.storage.SetUserCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.SetUserCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.SetUserFolderCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ViefundCommProcess.storage.SetUserFolderCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.SetUserFolderCompletedEventArgs">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.SendEmailCompletedEventHandler">
+	<remarks/>
+</member><member name="P:ViefundCommProcess.storage.SendEmailCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:ViefundCommProcess.storage.SendEmailCompletedEventArgs">
+	<remarks/>
+</member><member name="P:ViefundCommProcess.My.Resources.RepReport.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ViefundCommProcess.My.Resources.RepReport.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ViefundCommProcess.My.Resources.RepReport">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
